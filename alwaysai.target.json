@@ -1,0 +1,6 @@
+{
+  "targetProtocol": "ssh+docker:",
+  "targetHostname": "pi@alwaysai-demo.local",
+  "targetPath": "aai_remote/ymca",
+  "dockerImageId": "sha256:4a919b2846d74cf8f42347a24e2e8b0c281502f15b8df5c5e9886041b2c16852"
+}
